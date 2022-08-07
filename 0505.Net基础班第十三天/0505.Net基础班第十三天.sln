@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10接口的语法特征", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_总结", "15_总结\15_总结.csproj", "{3EDFB7F0-F5A2-4466-9FC7-4BDE0D8C3D86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16超市收银系统", "16超市收银系统\16超市收银系统.csproj", "{B7CA4162-D7F7-4104-8351-99544AECE078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17GUID", "17GUID\17GUID.csproj", "{8C8F99E7-6D8C-4BEC-AF68-FF5D76699C14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3EDFB7F0-F5A2-4466-9FC7-4BDE0D8C3D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EDFB7F0-F5A2-4466-9FC7-4BDE0D8C3D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EDFB7F0-F5A2-4466-9FC7-4BDE0D8C3D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CA4162-D7F7-4104-8351-99544AECE078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CA4162-D7F7-4104-8351-99544AECE078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CA4162-D7F7-4104-8351-99544AECE078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CA4162-D7F7-4104-8351-99544AECE078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8F99E7-6D8C-4BEC-AF68-FF5D76699C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8F99E7-6D8C-4BEC-AF68-FF5D76699C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8F99E7-6D8C-4BEC-AF68-FF5D76699C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8F99E7-6D8C-4BEC-AF68-FF5D76699C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
