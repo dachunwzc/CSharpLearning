@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0505.Net基础班第十四天", "0505.Net基础班第十四天\0505.Net基础班第十四天.csproj", "{3EA4E1E1-C4BC-4935-9EAA-86E4D3C4D737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01MD5加密", "01MD5加密\01MD5加密.csproj", "{B858E5CD-F52A-4E74-BA2B-9F35D6AD629C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA4E1E1-C4BC-4935-9EAA-86E4D3C4D737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA4E1E1-C4BC-4935-9EAA-86E4D3C4D737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA4E1E1-C4BC-4935-9EAA-86E4D3C4D737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA4E1E1-C4BC-4935-9EAA-86E4D3C4D737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B858E5CD-F52A-4E74-BA2B-9F35D6AD629C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B858E5CD-F52A-4E74-BA2B-9F35D6AD629C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B858E5CD-F52A-4E74-BA2B-9F35D6AD629C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B858E5CD-F52A-4E74-BA2B-9F35D6AD629C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D668FFF2-8D68-4547-9141-93219BC834A8}
+	EndGlobalSection
+EndGlobal
