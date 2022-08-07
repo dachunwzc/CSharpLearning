@@ -10,12 +10,12 @@ namespace _16超市收银系统
     {
         static void Main(string[] args)
         {
-            CangKu cangKu = new CangKu();
-            cangKu.JinPros("Acer", 1000);
-            cangKu.JinPros("SamSung", 100);
-            cangKu.JinPros("Banana", 10);
-            cangKu.JinPros("JiangYou", 1);
-            cangKu.ShowPros();
+            // 创建超市对象
+            SupperMarket supperMarket = new SupperMarket();
+            // 展示货物
+            supperMarket.ShowPros();
+            // 跟用户交互
+            supperMarket.AskBuying();
             Console.ReadKey();
         }
     }

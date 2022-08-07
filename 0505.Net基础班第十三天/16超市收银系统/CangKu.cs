@@ -68,7 +68,7 @@ namespace _16超市收银系统
         /// </summary>
         /// <param name="strType">货物的类型</param>
         /// <param name="count">货物的数量</param>
-        public void QuPros(string strType, int count)
+        public ProductFather[] QuPros(string strType, int count)
         {
             ProductFather[] pros = new ProductFather[count];
             for (int i = 0; i < count; i++)
@@ -93,6 +93,7 @@ namespace _16超市收银系统
                         break;
                 }
             }
+            return pros;
         }
     }
 }
