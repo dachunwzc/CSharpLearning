@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-开始", "001-开始\001-开始.csproj", "{151C995A-1B33-4889-808A-E576D1014D57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{4225C64A-3819-42CF-B4F2-DA8FC46B2133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012-编程题", "012-编程题\012-编程题.csproj", "{294F7810-4F43-47E1-8A1F-50B46BA62DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151C995A-1B33-4889-808A-E576D1014D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151C995A-1B33-4889-808A-E576D1014D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151C995A-1B33-4889-808A-E576D1014D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151C995A-1B33-4889-808A-E576D1014D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294F7810-4F43-47E1-8A1F-50B46BA62DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294F7810-4F43-47E1-8A1F-50B46BA62DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294F7810-4F43-47E1-8A1F-50B46BA62DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294F7810-4F43-47E1-8A1F-50B46BA62DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8602B0D-B9D1-4936-84A9-78CAC6196513}
+	EndGlobalSection
+EndGlobal
